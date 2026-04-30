@@ -22,6 +22,8 @@
   </a>
 </p>
 
+<span style="color: #ff69b4;">0_0</span>
+
 <p align="center">
 <tt>♫︎ <i><b>?!</b></i> ♫︎</tt>
 <p align="center">
